@@ -1,0 +1,3 @@
+[submodule "2lr"]
+	path = 2lr
+	url = https://github.com/4C498/2lr.git
